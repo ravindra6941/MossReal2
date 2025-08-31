@@ -56,7 +56,7 @@
   },
   "scripts": {
     "start": "yarn start",
-    "build": "yarn build",
+    "build": "yarn build"
     
   },
   "browserslist": {
